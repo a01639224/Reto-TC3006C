@@ -2,6 +2,9 @@
 
 ### Inteligencia artificial avanzada para la ciencia de datos I (Grupo 102)
 
+### Normatividad correspondiente del reto:
+A nivel institución la conducta y comportamiento de los estudiantes se rige por el "Código de Integridad Académica", mientras que dentro del reto se utilizó la metodología CRISP-DM (CRoss Industry Standard Process for Data Mining) justo como se menciona en la Canvas. (https://www.datascience-pm.com/crisp-dm-2/).
+
 ### Integrantes del equipo: <br />
 A01633784 | Alejandro Pizarro Chávez <br />
 A01634154 | Diego Rosas <br />
